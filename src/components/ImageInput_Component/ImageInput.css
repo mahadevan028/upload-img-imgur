@@ -1,0 +1,12 @@
+.input-field{
+    margin : 0px;
+}
+
+.custom-input{
+    display: flex;
+    justify-content: center;
+}
+
+.button-primary{
+    text-align:center;
+}
